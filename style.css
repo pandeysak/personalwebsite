@@ -1,0 +1,47 @@
+body{
+   margin: 0%;
+text-align: center;
+font-family: Verdana, Geneva, Tahoma, sans-serif;}
+h1{
+   font-family: 'Baloo 2', cursive;
+margin:0 auto 0 auto;
+font-size: 90px;}
+div{
+    background-color: #e4f9f5;
+}
+.top-container
+{
+    background-color: #e4f9f5;
+    position: relative;
+    padding-top: 100px;
+    
+   
+    
+}
+.middle-container
+{
+    background-color: #e4f9f5;
+    position: relative;
+    padding-top: 100px;
+    
+}
+.bottom-container
+{
+    background-color: #e4f9f5;
+    position: relative;
+    padding-top: 100px;
+    
+}
+.pro{ text-decoration: underline;}
+.bottom-cloud{
+    position: absolute;
+    left: 300px;
+    bottom: 300px;
+}
+.topcloud{position: absolute;
+    right: 300px;
+    top: 50px;
+}
+.profile1{height: 250px;}
+.write{height:250px}
+.bn{height:250px}
